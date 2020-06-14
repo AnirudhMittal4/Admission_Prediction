@@ -1,0 +1,2 @@
+# Admission_Prediction
+The process of selecting a university is tedious and time-consuming as there are a lot of factors that are considered while applying to a university. Using this dataset we plan to understand the student selection model used by one of the most reputed colleges in the USA- UCLA. This model will help students understand the weight of each type p-score in the final decision and also how they can together influence the chances of any student getting an admit from the university of their choice.
